@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jessica
 - 👀 I’m interested in learning new things and get to know nice people
-- 🌱 I’m currently learning how to code!
+- 🌱 I’m currently learning how to code @coding-bootcamp-eu
 
 
 <!---
